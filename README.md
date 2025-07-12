@@ -5,4 +5,5 @@ this paragraph added in feature-intro branch
 
 Edited by the conflict-branch
 
-this line added in main 
+
+this line added in conflict-branch and main
